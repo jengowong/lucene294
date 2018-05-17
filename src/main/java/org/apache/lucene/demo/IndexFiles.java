@@ -33,7 +33,7 @@ public class IndexFiles {
     private IndexFiles() {
     }
 
-    static final File INDEX_DIR = new File("index");
+    static final File INDEX_DIR = new File("/Users/jengowang/index294");
 
     /** Index all text files under a directory. */
     public static void main(String[] args) {
